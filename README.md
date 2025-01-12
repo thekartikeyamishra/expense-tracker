@@ -40,7 +40,7 @@ This project is an **Interactive Expense Tracker** designed to load, visualize, 
 Clone this repository to your local system or upload the Python script to Google Colab.
 
 ```bash
-git clone https://github.com/your-username/expense-tracker
+git clone https://github.com/thekartikeyamishra/expense-tracker
 ```
 
 ### 2. Run the Script
